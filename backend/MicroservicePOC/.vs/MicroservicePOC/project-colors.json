@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dff686ca-ae4b-475b-bbb2-b529ef697e4d": {
+      "ProjectGuid": "dff686ca-ae4b-475b-bbb2-b529ef697e4d",
+      "DisplayName": "SharedAzureServiceBus",
+      "ColorIndex": 0
+    },
+    "3a427b97-f2d1-41b1-8f52-4386835f691b": {
+      "ProjectGuid": "3a427b97-f2d1-41b1-8f52-4386835f691b",
+      "DisplayName": "ProfileMicroservice",
+      "ColorIndex": 1
+    },
+    "f34efef6-40af-499e-8e0d-ea143c3c8451": {
+      "ProjectGuid": "f34efef6-40af-499e-8e0d-ea143c3c8451",
+      "DisplayName": "ProfileMicroservice",
+      "ColorIndex": 2
+    },
+    "129fb8ce-c11a-4318-a18d-2a7a61c192e2": {
+      "ProjectGuid": "129fb8ce-c11a-4318-a18d-2a7a61c192e2",
+      "DisplayName": "NameMicroservice",
+      "ColorIndex": 3
+    },
+    "34e3e154-bfa5-4e9e-b66c-5938a48c1d8a": {
+      "ProjectGuid": "34e3e154-bfa5-4e9e-b66c-5938a48c1d8a",
+      "DisplayName": "AddressMicroservice",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "7d9d36ea-d78e-4c82-bc20-915bf636626c": {
+      "ProjectGuid": "7d9d36ea-d78e-4c82-bc20-915bf636626c",
+      "DisplayName": "SharedRepository",
+      "ColorIndex": 5
+    },
+    "ff3e2faa-9a14-4931-9e88-af44e9a1e38b": {
+      "ProjectGuid": "ff3e2faa-9a14-4931-9e88-af44e9a1e38b",
+      "DisplayName": "SharedAzureServiceBus",
+      "ColorIndex": 6
+    },
+    "642d879e-c4b0-4f84-9c89-abef8edb4716": {
+      "ProjectGuid": "642d879e-c4b0-4f84-9c89-abef8edb4716",
+      "DisplayName": "EmailFunction",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

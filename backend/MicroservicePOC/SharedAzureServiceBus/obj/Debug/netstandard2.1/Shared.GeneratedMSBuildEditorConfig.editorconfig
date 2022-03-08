@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Shared
+build_property.ProjectDir = C:\Data\My Projects\Microservice with ServiceBus\MicroservicePOC\Shared\
