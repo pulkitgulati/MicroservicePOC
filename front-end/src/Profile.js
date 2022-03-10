@@ -84,7 +84,7 @@ function Profile() {
           method: 'get',
           url: 'https://<add your domain>.azure-api.net/addr/Address/GetAllAddresses',
           headers: {
-          //'Authorization': `bearer ${auth.data.token}`,
+          'Authorization': `bearer ${auth.data.token}`,
           'Content-Type': 'application/json',
           }, 
         }).then(addresses=> {
@@ -137,7 +137,7 @@ function Profile() {
       url: 'https://<add your domain>.azure-api.net/Name/CreateProfile',
       data: payload, // you are sending body instead
       headers: {
-       // 'Authorization': `bearer ${token}`,
+       'Authorization': `bearer ${token}`,
       'Content-Type': 'application/json',
       //'Ocp-Apim-Subscription-Key': 'd7c7d3e87f034bb794a345fd9d56c8f4'
       //'Ocp-Apim-Trace': 'true'
